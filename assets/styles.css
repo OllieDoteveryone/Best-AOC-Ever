@@ -1,0 +1,59 @@
+p {
+  color: midnightblue;
+  font-size: 150%;
+  font-family:'Roboto', sans-serif;
+}
+h1 {
+  color: darkred;
+  background-color: royalblue;
+  font-family: 'Roboto', sans-serif;
+  display: block;
+font-size: 2em;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 0em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+font-weight: bold;
+}
+body {
+  text-align: center;
+    background-image: url(prosciuto.gif);
+}
+img {
+  width: 500px;
+  border: solid orange;
+  border-spacing: 20px
+}
+
+.gif {
+  width: 400px;
+  border: solid orange;
+  border-spacing: 20px
+}
+
+li {
+  background-color: royalblue;
+  font-size: 200%;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+p1 {
+  color: midnightblue;
+  font-size: 500%;
+  font-family:'Roboto', sans-serif;
+  background-color: gold;
+}
+
+.aoc {
+    color: midnightblue;
+    font-size: 150%;
+    font-family:'Roboto', sans-serif;
+  }
+
+iframe {
+  border: dotted limegreen;
+  border-spacing: 200px;
+  border-width: 50px
+}
