@@ -19,7 +19,7 @@ body {
   text-align: center;
     background-image: url(cheesegraphic.gif);
 }
-body:hover {background-image:winegraphic.gif};
+body:hover {background-image: url(winegraphic.gif)}
 img {
   width: 500px;
   border: solid orange;
